@@ -23,3 +23,5 @@ Or Waiting Untill I Get Done With Documentation :p
 Heres A Sneak Peak !
 
 ```Librarys And Python Like Command Like (Arguments To Run Scripts)```
+
+***For Code Dictionary Look At ```grammar.txt``` In This Repo
