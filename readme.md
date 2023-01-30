@@ -24,4 +24,6 @@ Heres A Sneak Peak !
 
 ```Librarys And Python Like Command Like (Arguments To Run Scripts)```
 
-***For Code Dictionary Look At ```grammar.txt``` In This Repo
+***For Code Dictionary***
+
+Look At ```grammar.txt``` In This Repo
