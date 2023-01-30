@@ -1,3 +1,8 @@
-@ Comment! %
+# This Is The New Code For BxPP3
 
-output("Hello, world');
+PRINT("Running A While Loop!")
+
+FOR i = 0 TO 5 THEN
+  PRINT("LOOPING")
+  PRINT("LOOPING")
+END
