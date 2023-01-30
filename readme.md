@@ -1,31 +1,25 @@
-**BxPP the programming language!**
+***BxPP3***
 
-**Q&A**
+We Just Had A Massive Update !
 
-   Version? This is version 1!!!!
+I have added 
 
-   Platform support? Linux only sadly (This will be changed on version 6!)
+``Functions, for loops, while loops, strings, comments and much more !``
 
-   Need indentation? No you do not! You can indent anything and it will still run!
+We Are Now Running BxPP3 And Now Support ALL PLATFORMS !!!!
 
-   Open source? YES!
+To Run External Scripts Please Use In The Interperter ``RUN("EXTERNAL SCRIPT FILE HERE")``
 
-**Update logs**
+Donations Kindly Will Be Accepted SOON
 
-    -Added setup.py '10-29-22'
+***How Can YOU Learn?***
 
-    -Added simple documenation '10-29-22'
+You Can Learn By Adding My Discord ```Disaster !#1337```
 
-**To do**
+Or Waiting Untill I Get Done With Documentation :p
 
-NOTHING AS OF NOW 
+***The Next Update Will Make Us BxPP4***
 
-*Installation*
+Heres A Sneak Peak !
 
-    git clone https://github.com/Discordmodsbers/BxPP
-    cd BxPP
-    sudo python3 setup.py
- 
- **How to learn?**
- 
-    Disaster !#1337
+```Librarys And Python Like Command Like (Arguments To Run Scripts)```
